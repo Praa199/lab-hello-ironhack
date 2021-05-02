@@ -12,39 +12,3 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
-
-.App {
-  background-color: rgb(41, 41, 41);
-}
-
-.App {
-  margin: 4rem;
-  padding: 2rem 4rem;
-}
-
-nav {
-  display: flex;
-  justify-content: space-between;
-}
-
-footer {
-  display: flex;
-  justify-content: space-evenly;
-  background-color: white;
-  width: 100%;
-}
-
-header.App-header {
-  margin-right: 50%;
-  background-color: rgb(41, 41, 41);
-}
-
-.footer-divs {
-  margin: 1rem;
-  color: black;
-}
-
-.footer-images {
-  height: 6rem;
-  width: 6rem;
-}
